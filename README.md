@@ -1,1 +1,5 @@
 # codecheese-blog-examples
+.
+.
+.
+
