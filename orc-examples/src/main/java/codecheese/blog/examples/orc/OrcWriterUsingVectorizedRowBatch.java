@@ -45,7 +45,6 @@ public class OrcWriterUsingVectorizedRowBatch {
 		DoubleColumnVector floatColumnVector = (DoubleColumnVector) batch.cols[3];
 		LongColumnVector booleanVector = (LongColumnVector) batch.cols[4];
 		BytesColumnVector stringVector = (BytesColumnVector) batch.cols[5];
-		//BytesColumnVector stringVector = (BytesColumnVector) batch.cols[4];
 
 
 		for(int r=0; r < 100000; ++r) {
