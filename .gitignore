@@ -1,0 +1,11 @@
+nb*.xml
+src/main/avro
+target
+*.iml
+.settings
+.project
+*.pyc
+.idea
+.DS_Store
+.classpath
+*.class
